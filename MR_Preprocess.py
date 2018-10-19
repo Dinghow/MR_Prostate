@@ -7,21 +7,21 @@ import pydicom
 from glob import glob
 
 #standard data
-case_path='C:\\Users\\ilab\\Desktop\\dcm\\BAO_XUN_YIN_100312588\\PELVIS_PROSTATE_PROGRAM_20111121_101613_906000\\T2_TSE_TRA_FS_0005'
-case_path='C:\\Users\\ilab\\Desktop\\dcm\\BAO_XUN_YIN_100312588\\PELVIS_PROSTATE_PROGRAM_20111121_101613_906000\\b-1500'
+case_path='C:\\Users\\hehe\\Desktop\\dcm\\BAO_XUN_YIN_100312588\\PELVIS_PROSTATE_PROGRAM_20111121_101613_906000\\T2_TSE_TRA_FS_0005'
+case_path='C:\\Users\\hehe\\Desktop\\dcm\\BAO_XUN_YIN_100312588\\PELVIS_PROSTATE_PROGRAM_20111121_101613_906000\\b-1500'
 
 
-# case_path='C:\\Users\\ilab\\Desktop\\dcm\\xian-ai\\HUYONGSHENG_50172302\\PELVIS_PROSTATE_PROGRAM_20150129_135211_921000\\T2_TSE_TRA_FS_0003'
-# case_path='C:\\Users\\ilab\\Desktop\\dcm\\xian-ai\\HUYONGSHENG_50172302\\PELVIS_PROSTATE_PROGRAM_20150129_135211_921000\\b-1500'
+# case_path='C:\\Users\\hehe\\Desktop\\dcm\\xian-ai\\HUYONGSHENG_50172302\\PELVIS_PROSTATE_PROGRAM_20150129_135211_921000\\T2_TSE_TRA_FS_0003'
+# case_path='C:\\Users\\hehe\\Desktop\\dcm\\xian-ai\\HUYONGSHENG_50172302\\PELVIS_PROSTATE_PROGRAM_20150129_135211_921000\\b-1500'
 
 
-# case_path='C:\\Users\\ilab\\Desktop\\dcm\\xian-ai\\ZHUQINGQUAN_100665572\\PELVIS_PROSTATE_PROGRAM_20140509_084125_546000\\T2_TSE_TRA_FS_0002'
+# case_path='C:\\Users\\hehe\\Desktop\\dcm\\xian-ai\\ZHUQINGQUAN_100665572\\PELVIS_PROSTATE_PROGRAM_20140509_084125_546000\\T2_TSE_TRA_FS_0002'
 
-# case_path='C:\\Users\\ilab\\Desktop\\dcm\\xian-ai\\LIU_HANG_GONG_100371672\\PELVIS_PROSTATE_PROGRAM_20120502_115455_734000\\T2_TSE_TRA_FS_0003'
-# case_path='C:\\Users\\ilab\\Desktop\\dcm\\xian-ai\\HUYONGSHENG_50172302\PELVIS_PROSTATE_PROGRAM_20150129_135211_921000\\T2_TSE_TRA_FS_0003'
+# case_path='C:\\Users\\hehe\\Desktop\\dcm\\xian-ai\\LIU_HANG_GONG_100371672\\PELVIS_PROSTATE_PROGRAM_20120502_115455_734000\\T2_TSE_TRA_FS_0003'
+# case_path='C:\\Users\\hehe\\Desktop\\dcm\\xian-ai\\HUYONGSHENG_50172302\PELVIS_PROSTATE_PROGRAM_20150129_135211_921000\\T2_TSE_TRA_FS_0003'
 
 
-case_path_mhd='C:\\Users\\ilab\\Desktop\\dcm\\xian-ai\\aaa.mhd'
+case_path_mhd='C:\\Users\\hehe\\Desktop\\dcm\\xian-ai\\aaa.mhd'
 
 
 nodule_coord=(-29.79,-59.49,-66.97)
